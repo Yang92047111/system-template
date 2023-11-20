@@ -1,4 +1,4 @@
-## Flask REST Plus, VueJS, and automated unit testing via Flask CLI 
+## Flask REST X, VueJS, and automated unit testing via Flask CLI 
 Test driven docker solution using VueJS, Flask, PostgresSQL, with swagger, & prebuilt authentication+JWT's running on NGINX/https
 
 ### 1. Getting Started
